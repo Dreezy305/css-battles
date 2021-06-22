@@ -1,6 +1,7 @@
 body {
   background: #6592cf;
 }
+
 .box {
   background: #243d83;
   width: 300px;
@@ -8,6 +9,18 @@ body {
   margin-top: 75px;
   margin-left: 45px;
   position: relative;
+}
+
+.circle {
+  width: 248px;
+  height: 200px;
+  border-radius: 200px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: solid #6592cf;
+  background-color: #6592cf;
 }
 
 .circle-1 {
