@@ -1,0 +1,65 @@
+body {
+  background: #62306d;
+}
+.in-rec {
+  width: 46px;
+  height: 100px;
+  background: #f7ec7d;
+  z-index: 0;
+  position: absolute;
+  top: 50%;
+  left: 45%;
+  box-shadow: -32px -50px 0px #f7ec7d, 21.1px -40px 0px 1px #f7ec7d,
+    34px 0px 0px 0px #f7ec7d;
+}
+.rect-2 {
+  width: 100px;
+  height: 100px;
+  background: #f7ec7d;
+  position: absolute;
+  bottom: 0;
+  left: 38.4%;
+  box-shadow: 100px 0px 0px #f7ec7d;
+}
+.rect-1 {
+  width: 100px;
+  height: 100px;
+  background: #f7ec7d;
+  position: absolute;
+  bottom: 0;
+  left: 13.2%;
+  box-shadow: 100px 0px 0px #f7ec7d;
+}
+.circle-1 {
+  width: 60px;
+  height: 60px;
+  background: #aa445f;
+  border-radius: 50%;
+  z-index: 1;
+  position: absolute;
+  top: 23%;
+  left: 42%;
+  box-shadow: 0px 0px 0px 20px #e38f66;
+}
+.circle-2 {
+  width: 55px;
+  height: 55px;
+  background: #e38f66;
+  border-radius: 50%;
+  z-index: 1;
+  position: absolute;
+  top: 57%;
+  left: 18.2%;
+  box-shadow: 0px 0px 0px 20px #aa445f;
+}
+.circle-3 {
+  width: 55px;
+  height: 55px;
+  background: #e38f66;
+  border-radius: 50%;
+  position: absolute;
+  z-index: 1;
+  top: 57%;
+  left: 70%;
+  box-shadow: 0px 0px 0px 20px #aa445f;
+}
