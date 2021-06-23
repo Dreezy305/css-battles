@@ -9,3 +9,13 @@ body {
   position: absolute;
   border-radius: 0px 0px 50px 50px;
 }
+
+.pill-2 {
+  background: #f7ec7d;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  bottom: 50px;
+  right: 50px;
+  border-radius: 0px 0px 50px 50px;
+}
