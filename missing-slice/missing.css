@@ -20,3 +20,13 @@ body {
   left: 100px;
   bottom: 150px;
 }
+
+.slice-3 {
+  width: 100px;
+  height: 100px;
+  background: #fade8b;
+  border-radius: 0px 100px 0px 0px;
+  position: absolute;
+  right: 100px;
+  bottom: 150px;
+}
