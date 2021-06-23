@@ -1,8 +1,84 @@
 body {
   background: #6592cf;
 }
-.fork {
+
+.semi-4 {
+  width: 24px;
+  height: 10px;
+  background: #060f55;
+  border-radius: 25px 25px 0px 0px;
+  position: absolute;
+  z-index: 1;
+  top: 17%;
+  left: 61.94%;
+}
+.semi-3 {
+  width: 20px;
+  height: 10px;
+  background: #060f55;
+  border-radius: 25px 25px 0px 0px;
+  position: absolute;
+  z-index: 1;
+  top: 17%;
+  left: 52%;
+}
+.semi-2 {
+  width: 19px;
+  height: 10px;
+  background: #060f55;
+  border-radius: 25px 25px 0px 0px;
+  position: absolute;
+  z-index: 1;
+  top: 17%;
+  left: 42.374%;
+}
+.semi-1 {
+  width: 22px;
+  height: 10px;
+  background: #060f55;
+  border-radius: 25px 25px 0px 0px;
+  position: absolute;
+  z-index: 1;
+  top: 17%;
+  left: 31.82%;
+}
+.top-rec {
   width: 150px;
+  height: 10px;
+  background: #6592cf;
+  position: absolute;
+  top: 16.5%;
+  left: 31.3%;
+}
+.inner-gutter-1 {
+  width: 20px;
+  height: 100px;
+  background: #6592cf;
+  border-radius: 0px 0px 15px 15px;
+  position: absolute;
+  top: 20%;
+  left: 37.2%;
+}
+.inner-gutter-2 {
+  width: 20px;
+  height: 100px;
+  background: #6592cf;
+  border-radius: 0px 0px 15px 15px;
+  position: absolute;
+  top: 20%;
+  left: 47%;
+}
+.inner-gutter-3 {
+  width: 20px;
+  height: 100px;
+  background: #6592cf;
+  border-radius: 0px 0px 15px 15px;
+  position: absolute;
+  top: 20%;
+  left: 57%;
+}
+.fork {
+  width: 145px;
   height: 200px;
   background: #060f55;
   position: relative;
@@ -11,7 +87,6 @@ body {
   transform: translate(-50%, -50%);
   border-radius: 0px 0px 100px 100px;
 }
-
 .handle {
   width: 20px;
   height: 100px;
