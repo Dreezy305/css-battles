@@ -3,14 +3,14 @@ body {
   font-size: 0;
   background: #62306d;
 }
-.column {
+.container {
   width: 100px;
   height: 150px;
   display: inline-block;
   background: #f7ec7d;
   border-radius: 50px 50px 0 0;
 }
-.column:nth-child(2) {
+.container:nth-child(2) {
   height: 250px;
 }
 .circle {
@@ -20,7 +20,7 @@ body {
   background: #e38f66;
   border-radius: 50%;
 }
-.column:nth-child(2) .circle {
+.container:nth-child(2) .circle {
   background: #aa445f;
   border-color: #e38f66;
 }
