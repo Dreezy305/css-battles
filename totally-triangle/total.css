@@ -2,11 +2,12 @@ body {
   background: #0b2429;
 }
 
-div {
-  width: 140px;
-  height: 135px;
-  background: #f3ac3c;
+.angle {
+  width: 0;
+  height: 0;
+  border-top: 150px solid #f3ac3c;
+  border-right: 150px solid transparent;
   position: absolute;
-  left: 0%;
   top: 0%;
+  left: 0%;
 }
