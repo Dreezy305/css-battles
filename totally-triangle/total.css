@@ -3,4 +3,10 @@ body {
 }
 
 div {
+  width: 140px;
+  height: 135px;
+  background: #f3ac3c;
+  position: absolute;
+  left: 0%;
+  top: 0%;
 }
