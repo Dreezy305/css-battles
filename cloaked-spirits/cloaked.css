@@ -24,3 +24,25 @@ body {
   background: #aa445f;
   border-color: #e38f66;
 }
+
+.left-moon {
+  width: 70px;
+  height: 32px;
+  border-radius: 0 0 80px 80px;
+  border: 17px solid #eca03d;
+  border-top: 0;
+  margin-top: 150px;
+  margin-left: 40px;
+}
+
+.right-moon {
+  width: 70px;
+  height: 32px;
+  border-radius: 0 0 80px 80px;
+  border: 17px solid #eca03d;
+  border-top: 0;
+  position: absolute;
+  top: 33.4%;
+  right: 10%;
+  transform: rotate(180deg);
+}
