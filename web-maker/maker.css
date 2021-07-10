@@ -13,4 +13,5 @@ body {
   top: 28%;
   left: 15%;
   box-shadow: -10px 0px 0px 0px #fd4602;
+  z-index: 1;
 }
