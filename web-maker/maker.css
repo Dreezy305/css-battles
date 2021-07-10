@@ -1,3 +1,16 @@
 body {
   background: #f2f2b6;
 }
+
+.maker {
+  width: 0;
+  height: 0;
+  border-top: 120px solid #ff6d00;
+  border-left: 85px solid transparent;
+  border-bottom: 85px solid transparent;
+  border-right: 85px solid transparent;
+  position: absolute;
+  top: 28%;
+  left: 15%;
+  box-shadow: -10px 0px 0px 0px #fd4602;
+}
