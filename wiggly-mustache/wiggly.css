@@ -1,0 +1,53 @@
+body {
+  background: #f5d6b4;
+}
+.cap-2 {
+  width: 20px;
+  height: 10px;
+  border-radius: 50px 50px 0px 0px;
+  background: #d86f45;
+  position: absolute;
+  right: 12.2%;
+  bottom: 51%;
+}
+.cap-1 {
+  width: 20px;
+  height: 10px;
+  border-radius: 50px 50px 0px 0px;
+  background: #d86f45;
+  position: absolute;
+  top: 45%;
+  left: 17%;
+}
+.u-left {
+  width: 70px;
+  height: 32px;
+  border-radius: 0 0 80px 80px;
+  border: 20px solid #d86f45;
+  border-top: 0;
+  margin-top: 145px;
+  margin-left: 60px;
+}
+.inverted {
+  width: 65px;
+  height: 40px;
+  border-radius: 0 0 80px 80px;
+  border: 20px solid #d86f45;
+  border-top: 0;
+  position: absolute;
+  top: 33%;
+  right: 34.5%;
+  transform: rotate(180deg);
+}
+.u-right {
+  width: 70px;
+  height: 32px;
+  border-radius: 0 0 80px 80px;
+  border: 20px solid #d86f45;
+  border-top: 0;
+  position: absolute;
+  bottom: 34%;
+  right: 12.2%;
+  margin-left: 250px;
+  margin-top: 145px;
+}
